@@ -37,4 +37,4 @@ Conclusion
 This project demonstrates the basic principles of logo design, colour selection, typography, and brand identity.
 Logo Preview
 
-![Brew & Bloom Café Logo]()
+![Brew & Bloom Café Logo](Screenshot_2026-10-09-22-11-02-87_99c04817c0de5652397fc8b56c3b3817.jpg)
